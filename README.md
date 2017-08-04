@@ -1,5 +1,4 @@
 # Swiss Tournament Pairing System 
-_Multi User Blog Application_ is an application that allows users to create articles, like and comment on already published articles
 
 ## Quick Start 
 ### Install 
